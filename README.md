@@ -1,6 +1,6 @@
 #LearnERA
 
-This application is a WIP and is supposed to act as a platform for interaction between college faculty and students and among students themselves when completed. 
+This application is a WIP and is supposed to act as a platform for interaction between college faculty and students.
 
 This application uses the following libraries:
 
